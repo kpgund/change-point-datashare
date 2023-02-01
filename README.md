@@ -1,4 +1,4 @@
-Change-point modesl for identifying single behavioral transitions in wild animals
+Change-point models for identifying single behavioral transitions in wild animals
 
 ## Authors
 Kathleen P. Gundermann, Department of Ecosystem Science and Management, Pennsylvania State University, University Park, Pennsylvania, USA 
@@ -25,7 +25,7 @@ USGS Information Product Data System (IPDS) no.:
 
 ## Suggested Citation for Software
 
-Gundermann K.P. and Buderman F.E. Change-point models for identifying behavioral changes in wild animals. Version 1.0.0: U.S. Geological Survey software release. Reston, Va.
+Gundermann K.P. and Buderman F.E. Change-point models for identifying behavioral changes in wild animals. Version 1.0.0: Software release. Reston, Va.
 
 ## Abstract
 
