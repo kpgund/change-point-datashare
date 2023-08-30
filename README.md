@@ -29,10 +29,10 @@ Gundermann K.P. and Buderman F.E. Change-point models for identifying behavioral
 
 ## Abstract
 
-We present two change-point models for identifying singular changes in movement behavior: a location-based change-point model (LCPM) and a movement metric-based change-point model (MMCPM). This software includes R scripts to: 1) run both the LCPM and MMCPM on telemetry data in a Bayesian hierarchical framework using NIMBLE (mmcpm.R and lcpm.R), 2) generate realistic movement behavior parameters for the simulation study (simulate_data.R), and 3) run both the LCPM and MMCPM on the simulated data (mmcpm_sim.R and lcpm_sim.R). Data and code will be available at https://github.com/kpgund/change-point.
+We present two change-point models for identifying singular changes in movement behavior: a location-based change-point model (LCPM) and a movement metric-based change-point model (MMCPM). This software includes R scripts to: 1) run both the LCPM and MMCPM on telemetry data in a Bayesian hierarchical framework using NIMBLE (mmcpm.R and lcpm.R), 2) generate realistic movement behavior parameters for the simulation study (simulate_data.R), and 3) run both the LCPM and MMCPM on the simulated data (mmcpm_sim.R and lcpm_sim.R). Data and code will be available at https://github.com/kpgund/change-point-datashare.
 
 This code is used in the manuscript in review in Methods in Ecology and Evolution
 
 Suggest citation for accompanying manuscript:
 
-Gundermann, K.P., Diefenbach, D.R., Walter, W.D., Corondi, A.M., Banfield, J.E., Wallingford, B.D., Stainbrook, D.P., Rosenberry, C.S., Buderman, F.E., Change-point models for identifying behavioral changes in wild animals. Methods in Ecology and Evolution
+Gundermann, K.P., Diefenbach, D.R., Walter, W.D., Corondi, A.M., Banfield, J.E., Wallingford, B.D., Stainbrook, D.P., Rosenberry, C.S., Buderman, F.E., Change-point models for identifying behavioral changes in wild animals. Movement Ecology

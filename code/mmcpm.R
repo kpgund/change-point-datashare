@@ -64,8 +64,8 @@ mmcpm.nimble <- function(data,vit.data){
     b[2] ~ dunif(0, 8)
     
     # turning angles 
-    mu[1] ~ dunif(-1, 6)
-    mu[2] ~ dunif(-1, 6)
+    mu[1] ~ dunif(-3.14159265359, 3.14159265359)
+    mu[2] ~ dunif(-3.14159265359, 3.14159265359)
     rho[1] ~ dunif(0.0,1.0)
     rho[2] ~ dunif(0.0,1.0)
     
@@ -183,8 +183,8 @@ mmcpm.exp.nimble <- function(data,vit.data){
     lambda[2] ~ dgamma(0.001,0.001)
     
     # turning angles 
-    mu[1] ~ dunif(-1, 6)
-    mu[2] ~ dunif(-1, 6)
+    mu[1] ~ dunif(-3.14159265359, 3.14159265359)
+    mu[2] ~ dunif(-3.14159265359, 3.14159265359)
     rho[1] ~ dunif(0.0,1.0)
     rho[2] ~ dunif(0.0,1.0)
     
