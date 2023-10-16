@@ -1,13 +1,14 @@
 Change-point models for identifying behavioral transitions in wild animals
 
 ## Authors
-Kathleen P. Gundermann, Department of Ecosystem Science and Management, Pennsylvania State University, University Park, Pennsylvania, USA 
 
-Frances E. Buderman, Department of Ecosystem Science and Management, Pennsylvania State University, University Park, Pennsylvania, USA 
+Kathleen P. Gundermann, Department of Ecosystem Science and Management, Pennsylvania State University, University Park, Pennsylvania, USA
 
-## Point of contact: 
+Frances E. Buderman, Department of Ecosystem Science and Management, Pennsylvania State University, University Park, Pennsylvania, USA
 
-Kathleen P. Gundermann (kpgund@psu.edu) 
+## Point of contact:
+
+Kathleen P. Gundermann (kpgund@psu.edu)
 
 ## Information
 
@@ -19,9 +20,9 @@ Year of Version: 2023
 
 Version: 1.0.0
 
-Digital Object Identifier (DOI): 
+Digital Object Identifier (DOI): https://doi.org/10.5066/P9B2HE47
 
-USGS Information Product Data System (IPDS) no.:   
+USGS Information Product Data System (IPDS) no.: IP-150001
 
 ## Suggested Citation for Software
 
