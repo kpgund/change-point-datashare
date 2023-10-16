@@ -1,4 +1,4 @@
-Change-point models for identifying single behavioral transitions in wild animals
+Change-point models for identifying behavioral transitions in wild animals
 
 ## Authors
 Kathleen P. Gundermann, Department of Ecosystem Science and Management, Pennsylvania State University, University Park, Pennsylvania, USA 
